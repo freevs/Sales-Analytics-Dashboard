@@ -10,7 +10,7 @@ The sales director of the company is facing a lot of issues in terms of understa
 * Created measures, calculated Columns used them for creating visuals in PowerBi.
 
 ## Dashboard
-![alt text](https://github.com/freevs/Sales-Analytics-Dasboard/blob/main/Dasboard/Dashboard%20.png "Sales_Insights")
+![Alt text](https://github.com/freevs/Sales-Analytics-Dashboard/blob/main/Dashboard/Dashboard%20.png)
 
 ## Observations
 * Dehli is the largest market in term of revenue contributing around 53%
